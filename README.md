@@ -2,8 +2,6 @@
 
 A bash script to quickly set up a Next.js project with an advanced project timeline calculator component.
 
-![Project Calculator Screenshot](https://via.placeholder.com/800x400?text=Project+Calculator+Screenshot)
-
 ## Overview
 
 This repository contains a bash script (`setup_project_calculator.sh`) that automates the creation of a complete Next.js project with TypeScript, Tailwind CSS, and a sophisticated Project Timeline Calculator component. The calculator helps you plan and visualize project timelines, resource allocation, and evaluation points needed.
