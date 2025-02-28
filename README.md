@@ -31,7 +31,7 @@ To use this script, you need to have the following installed on your system:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/project-calculator-setup.git
+   git clone https://github.com/Melis-Pablo/project-calculator-setup.git
    cd project-calculator-setup
    ```
 
